@@ -14,7 +14,7 @@
 - 🔍 Focused on impactful projects like Lung disease classification and Fake news Detection system
 - 📚 Currently exploring: Data Science | DSA | MERN Stack | Machine Learning 
 - 🎯 Life goal: Build value-driven solutions and empower through tech  
-- 📬 Reach me: **[LinkedIn](www.linkedin.com/in/aaryan-tamhane-589a86248)** | **Email: [sweetsalt.dev@gmail.com](mailto:aaryantamhane29@gmail.com)**
+- 📬 Reach me: **[LinkedIn](www.linkedin.com/in/aaryan-tamhane-589a86248)** | **Email: [Gmail](mailto:aaryantamhane29@gmail.com)**
 
 ---
 
@@ -33,14 +33,6 @@
 
 ---
 
-### 📌 Featured Projects
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Cancer Prediction & Awareness** | ML model + real-world impact via NGO work | Python, Sklearn, TF-IDF, Naive Bayes |
-| **T&C Summarizer Extension** | Chrome Extension to summarize Terms & Conditions instantly | JavaScript, NLP, Chrome APIs |
-| **Fake News Detector** | Detects misinformation + Sentiment advisory | Python, TF-IDF, Naive Bayes, VADER |
-
----
 
 ### 📈 Most Used Languages
 <p align="center">
