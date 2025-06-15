@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#F7768E;">SweetSalt</span> (a.k.a. Aaryan)</h1>
+<h3 align="center">💻 Passionate Computer Science Student | 🧠 AI/ML Explorer | 🌱 Lifelong Learner</h3>
 
-<!--
-**SweetSalt29/SweetSalt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Code.+Create.+Contribute.;Learn.+Build.+Repeat.+" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🎓 CS Engineering Student | Final Year  
+- 🤖 Building smart things with AI/ML, NLP, and Full Stack Dev  
+- 🔍 Focused on impactful projects like Lung disease classification and Fake news Detection system
+- 📚 Currently exploring: Data Science | DSA | MERN Stack | Machine Learning 
+- 🎯 Life goal: Build value-driven solutions and empower through tech  
+- 📬 Reach me: **[LinkedIn](www.linkedin.com/in/aaryan-tamhane-589a86248)** | **Email: [sweetsalt.dev@gmail.com](mailto:aaryantamhane29@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,git,github,html,css,tailwind,linux,vscode" />
+</p>
+
+---
+
+### 🔥 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SweetSalt29&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweetSalt29&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Cancer Prediction & Awareness** | ML model + real-world impact via NGO work | Python, Sklearn, TF-IDF, Naive Bayes |
+| **T&C Summarizer Extension** | Chrome Extension to summarize Terms & Conditions instantly | JavaScript, NLP, Chrome APIs |
+| **Fake News Detector** | Detects misinformation + Sentiment advisory | Python, TF-IDF, Naive Bayes, VADER |
+
+---
+
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetSalt29&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ✨ Let's Connect
+<p align="center">
+  <a href="www.linkedin.com/in/aaryan-tamhane-589a86248"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aaryantamhane29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SweetSalt29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
+</p>
+
+---
+
+> _“Building for impact. Learning for life.”_
+
