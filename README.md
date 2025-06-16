@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#F7768E;">SweetSalt</span> (a.k.a. Aaryan)</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#F7768E;">Aaryan</h1>
 <h3 align="center">💻 Passionate Computer Science Student | 🧠 AI/ML Explorer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
