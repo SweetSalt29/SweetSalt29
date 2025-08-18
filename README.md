@@ -12,7 +12,7 @@
 - 🎓 CS Engineering Student | Final Year  
 - 🤖 Building smart things with AI/ML, NLP, and Full Stack Dev  
 - 🔍 Focused on impactful projects like Lung disease classification and Fake news Detection system
-- 📚 Currently exploring: Data Science | DSA | MERN Stack | Machine Learning 
+- 📚 Currently exploring: Data Science | DSA | Machine Learning 
 - 🎯 Life goal: Build value-driven solutions and empower through tech  
 - 📬 Reach me: **[LinkedIn](www.linkedin.com/in/aaryan-tamhane-589a86248)** | **Email: [Gmail](mailto:aaryantamhane29@gmail.com)**
 
@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mongodb,MySQL" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mongodb,SQL,git,github,vscode,sqlite" />
 </p>
 
 ---
